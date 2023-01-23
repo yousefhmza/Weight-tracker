@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "956741172167",
+    "project_id": "weight-tracker-a6bff",
+    "storage_bucket": "weight-tracker-a6bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956741172167:android:a25aff3f525fdac386f7e2",
+        "android_client_info": {
+          "package_name": "com.app.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956741172167-dmrr2j80q34n8m81jkqapih4u28rfiic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.weight_tracker",
+            "certificate_hash": "43d3dbbc7f942cb16c3279c376147121289c36e4"
+          }
+        },
+        {
+          "client_id": "956741172167-stgu7nca7db2irkv64b1236qu653hjnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnXiZS7IiarBYwbT978fAa40D8o-4dLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956741172167-stgu7nca7db2irkv64b1236qu653hjnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956741172167-719olaquouunt0ha6kf2t6fla8bgs5mt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.weightTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
